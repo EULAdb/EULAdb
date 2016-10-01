@@ -1,3 +1,13 @@
+# EULAdb: database of EULAs/ToS
+
+No one reads EULAs. So how do we
+protect ourselves from ToS which threaten
+our interests as users and citizens?
+
+One way is to aggregate and mine these documents,
+identifying key changes and phrases used to
+justify invasive or user-antagonistic practice.
+
 # repo structure summary
 
 ( please email chris.wiggins@gmail.com with questions, comments, or suggestions )
