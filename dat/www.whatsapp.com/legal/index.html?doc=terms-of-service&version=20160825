@@ -1,0 +1,483 @@
+
+<html lang="en"    class="version-d platform-desktop">
+<head>
+    <meta charset="UTF-8">
+    <title>WhatsApp Legal Info</title>
+
+        
+    
+    <meta name="description" content="WhatsApp Messenger: More than 1 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.">
+    <meta property="og:title" content="WhatsApp Legal Info"/>
+    <meta property="og:image" content="https://www.cdn.whatsapp.net/img/v4/whatsapp-promo.png"/>
+    <meta property="og:site_name" content="WhatsApp.com"/>
+    <meta property="og:description" content="WhatsApp Messenger: More than 1 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world."/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+
+    <meta name="theme-color" content="#1BA691">
+    <meta name="msapplication-navbutton-color" content="#1BA691">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#1BA691">
+
+    <link id="favicon" rel="shortcut icon" href="https://whatsapp.com/favicon.png" type="image/png">
+
+    <meta name="google-site-verification" content="Cusl-1G4lInGd7xZ55vzhKEF4l3O11umoaqQ-RxTf2w" />
+
+        <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-8707243-1', {
+        'cookieName' : 'whatsapp_cookie',
+        'cookieDomain' : 'www.whatsapp.com',
+        'cookieExpires' : 60 * 60 * 24 * 365 * 2
+    });
+    ga('send', 'pageview');
+    // delete old cookies
+    document.cookie = '__utma=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    document.cookie = '__utmc=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    document.cookie = '__utmz=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    </script>
+
+            <link rel="stylesheet" href="https://www.cdn.whatsapp.net/css/v4/style.build.css?v=2d30353">
+
+            <script type="text/javascript" src="https://www.cdn.whatsapp.net/js/v4/jquery-1.12.2.min.js"></script>
+
+
+</head>
+<body class="page page--legal" id="top">
+    <div class="header ">
+        <header class="page-header ">
+            <div class="page-header__inner">
+                <a class="page-header__logo" href="https://www.whatsapp.com"></a>
+
+                <div class="page-header__title">
+                    <a href="https://www.whatsapp.com/legal/">WhatsApp Legal Info<a/>
+                </div>
+
+                <div class="page-header__menu" onclick="toggle_menu()">
+
+                    <svg version="1.1" id="icon-menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="37px" height="37px" viewBox="0 0 37 37" style="enable-background:new 0 0 37 37;" xml:space="preserve">
+                    <path class="icon_white" d="M8,26h21v-1.8H8V26z M8,11v1.8h21V11H8z M8,19.2h21v-1.8H8V19.2z"/>
+                    </svg>
+
+                </div>
+
+                
+                <div class="page-header__language">
+                    
+<div id="lng" onclick="toggle_lng_menu()">
+
+	<svg version="1.1" id="icon-language" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+     y="0px" width="19px" height="19px" viewBox="0 0 19 19" style="enable-background:new 0 0 19 19;" xml:space="preserve">
+<style type="text/css">
+    .icon_language_1{fill:#FFFFFF;}
+</style>
+<path class="icon_language_1" d="M9.5,2C5.4,2,2,5.4,2,9.5S5.4,17,9.5,17c4.1,0,7.5-3.4,7.5-7.5S13.6,2,9.5,2z M14.7,6.5h-2.2
+    c-0.2-1-0.6-1.8-1.1-2.7C12.8,4.3,14,5.2,14.7,6.5z M9.5,3.5c0.6,0.9,1.1,1.9,1.4,3H8.1C8.4,5.4,8.9,4.4,9.5,3.5z M3.7,11
+    c-0.2-0.5-0.2-1-0.2-1.5C3.5,9,3.5,8.4,3.7,8h2.6C6.2,8.5,6.2,9,6.2,9.5c0,0.5,0.1,1,0.1,1.5H3.7z M4.3,12.5h2.2
+    c0.2,1,0.6,1.8,1.1,2.7C6.2,14.7,5,13.8,4.3,12.5z M6.5,6.5H4.3c0.8-1.3,1.9-2.2,3.2-2.7C7.1,4.7,6.7,5.5,6.5,6.5z M9.5,15.5
+    c-0.6-0.9-1.1-1.9-1.4-3h2.9C10.6,13.6,10.1,14.6,9.5,15.5z M11.2,11H7.8c-0.1-0.5-0.2-1-0.2-1.5c0-0.5,0.1-1,0.2-1.5h3.5
+    c0.1,0.5,0.2,1,0.2,1.5C11.5,10,11.3,10.5,11.2,11z M11.5,15.2c0.5-0.8,0.8-1.7,1.1-2.7h2.2C14,13.8,12.8,14.7,11.5,15.2z M12.8,11
+    c0.1-0.5,0.1-1,0.1-1.5c0-0.5-0.1-1-0.1-1.5h2.6c0.2,0.5,0.2,1,0.2,1.5c0,0.5-0.1,1.1-0.2,1.5H12.8z"/>
+</svg>
+
+	<span class="lng-id" dir="auto">en</span>
+</div>
+
+<div id="lng_open">
+	<div id="select" onclick="toggle_lng_menu()">
+		<span class="dropdown">&#9662;</span>
+		<span class="icon"></span>
+		Select your language	</div>
+	<div id="popular">
+		<li ><a href="?doc=terms-of-service&version=20160825&l=az" dir="auto">Azərbaycanca</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=id" dir="auto">Bahasa Indonesia</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ms" dir="auto">Bahasa Melayu</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ca" dir="auto">Català</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=cs" dir="auto">Česky</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=da" dir="auto">Dansk</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=de" dir="auto">Deutsch</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=et" dir="auto">eesti</a></li><li class="active"><a href="?doc=terms-of-service&version=20160825&l=en" dir="auto">English</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=es" dir="auto">Español</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=fr" dir="auto">Français</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=hr" dir="auto">Hrvatski</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=it" dir="auto">Italiano</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=sw" dir="auto">Kiswahili</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=lv" dir="auto">Latviešu</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=lt" dir="auto">Lietuviškai</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=hu" dir="auto">Magyar</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=nl" dir="auto">Nederlands</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=nb" dir="auto">Norsk</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=uz" dir="auto">Oʻzbekcha</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=fil" dir="auto">Pilipino</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=pl" dir="auto">Polski</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=pt_br" dir="auto">Português (BR)</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=pt_pt" dir="auto">Português (PT)</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ro" dir="auto">Română</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=sk" dir="auto">Slovenčina</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=sl" dir="auto">Slovenščina</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=fi" dir="auto">suomi</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=sv" dir="auto">svensk</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=vi" dir="auto">Tiếng Việt</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=tr" dir="auto">Türkçe</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=el" dir="auto">Ελληνικά</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=bg" dir="auto">Български</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=kk" dir="auto">Қазақ</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=mk" dir="auto">Македонски</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ru" dir="auto">Pусский</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=sr" dir="auto">српски</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=uk" dir="auto">Українська</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=he" dir="auto">‏עברית‏</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ar" dir="auto">العربية</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=fa" dir="auto">فارسی</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ur" dir="auto">اردو</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=bn" dir="auto">বাংলা </a></li><li ><a href="?doc=terms-of-service&version=20160825&l=hi" dir="auto">हिंदी</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=gu" dir="auto">ગુજરાતી</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=kn" dir="auto">ಕನ್ನಡ</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=mr" dir="auto">मराठी</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ta" dir="auto">தமிழ்</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=th" dir="auto">ภาษาไทย</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=zh_cn" dir="auto">简体中文</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=zh_tw" dir="auto">繁體中文</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ja" dir="auto">日本語</a></li><li ><a href="?doc=terms-of-service&version=20160825&l=ko" dir="auto">한국어</a></li>		<div class="clear"></div>
+	</div>
+		<div id="helptranslate">
+		<li><a href="https://translate.whatsapp.com" target="_blank">Help translate WhatsApp into your language</a></li>
+		<div class="clear"></div>
+	</div>
+
+</div>                </div>
+
+                <nav class="page-header__nav">
+                    <ul class="sitenav">
+                                                    <li class="sitenav-item">
+                                <a href="https://web.whatsapp.com/">
+                                    WhatsApp Web                                </a>
+                            </li>
+                                                    <li class="sitenav-item">
+                                <a href="https://www.whatsapp.com/features/">
+                                    Features                                </a>
+                            </li>
+                                                    <li class="sitenav-item">
+                                <a href="https://www.whatsapp.com/download/">
+                                    Download                                </a>
+                            </li>
+                                                    <li class="sitenav-item">
+                                <a href="https://www.whatsapp.com/security/">
+                                    Security                                </a>
+                            </li>
+                                                    <li class="sitenav-item">
+                                <a href="https://www.whatsapp.com/faq/">
+                                    FAQ                                </a>
+                            </li>
+                                            </ul>
+                </nav>
+            </div>
+
+            <nav class="page-header__drawer drawer">
+                <div class="drawer__inner">
+                    <div class="drawer__close" onclick="toggle_menu()">
+
+                        <svg version="1.1" id="icon-close" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                             width="37px" height="37px" viewBox="0 0 37 37" style="enable-background:new 0 0 37 37;" xml:space="preserve">
+                        <polygon class="icon_white" points="26.7,11.6 25.4,10.3 18.5,17.2 11.6,10.3 10.3,11.6 17.2,18.5 10.3,25.4 11.6,26.7 18.5,19.8
+                            25.4,26.7 26.7,25.4 19.8,18.5 "/>
+                        </svg>
+
+                    </div>
+
+                    <div class="drawer__icon">
+                        <svg version="1.1" id="whatsapp-logo-notext" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                             x="0px" y="0px" width="39px" height="39px" viewBox="0 0 39 39" style="enable-background:new 0 0 39 39;" xml:space="preserve">
+                        <style type="text/css">
+                            .logo_white{fill:#FFFFFF;}
+                            .logo_green{fill:#00E676;}
+                        </style>
+                        <path class="logo_green" d="M10.7,32.8l0.6,0.3c2.5,1.5,5.3,2.2,8.1,2.2l0,0c8.8,0,16-7.2,16-16c0-4.2-1.7-8.3-4.7-11.3
+                            s-7-4.7-11.3-4.7c-8.8,0-16,7.2-15.9,16.1c0,3,0.9,5.9,2.4,8.4l0.4,0.6l-1.6,5.9L10.7,32.8z"/>
+                        <path class="logo_white" d="M32.4,6.4C29,2.9,24.3,1,19.5,1C9.3,1,1.1,9.3,1.2,19.4c0,3.2,0.9,6.3,2.4,9.1L1,38l9.7-2.5
+                            c2.7,1.5,5.7,2.2,8.7,2.2l0,0c10.1,0,18.3-8.3,18.3-18.4C37.7,14.4,35.8,9.8,32.4,6.4z M19.5,34.6L19.5,34.6c-2.7,0-5.4-0.7-7.7-2.1
+                            l-0.6-0.3l-5.8,1.5L6.9,28l-0.4-0.6c-4.4-7.1-2.3-16.5,4.9-20.9s16.5-2.3,20.9,4.9s2.3,16.5-4.9,20.9C25.1,33.8,22.3,34.6,19.5,34.6
+                            z M28.3,23.5L27.2,23c0,0-1.6-0.7-2.6-1.2c-0.1,0-0.2-0.1-0.3-0.1c-0.3,0-0.5,0.1-0.7,0.2l0,0c0,0-0.1,0.1-1.5,1.7
+                            c-0.1,0.2-0.3,0.3-0.5,0.3h-0.1c-0.1,0-0.3-0.1-0.4-0.2l-0.5-0.2l0,0c-1.1-0.5-2.1-1.1-2.9-1.9c-0.2-0.2-0.5-0.4-0.7-0.6
+                            c-0.7-0.7-1.4-1.5-1.9-2.4L15,18.4c-0.1-0.1-0.1-0.2-0.2-0.4c0-0.2,0-0.4,0.1-0.5c0,0,0.4-0.5,0.7-0.8c0.2-0.2,0.3-0.5,0.5-0.7
+                            c0.2-0.3,0.3-0.7,0.2-1c-0.1-0.5-1.3-3.2-1.6-3.8c-0.2-0.3-0.4-0.4-0.7-0.5h-0.3c-0.2,0-0.5,0-0.8,0c-0.2,0-0.4,0.1-0.6,0.1
+                            l-0.1,0.1c-0.2,0.1-0.4,0.3-0.6,0.4c-0.2,0.2-0.3,0.4-0.5,0.6c-0.7,0.9-1.1,2-1.1,3.1l0,0c0,0.8,0.2,1.6,0.5,2.3l0.1,0.3
+                            c0.9,1.9,2.1,3.6,3.7,5.1l0.4,0.4c0.3,0.3,0.6,0.5,0.8,0.8c2.1,1.8,4.5,3.1,7.2,3.8c0.3,0.1,0.7,0.1,1,0.2l0,0c0.3,0,0.7,0,1,0
+                            c0.5,0,1.1-0.2,1.5-0.4c0.3-0.2,0.5-0.2,0.7-0.4l0.2-0.2c0.2-0.2,0.4-0.3,0.6-0.5s0.4-0.4,0.5-0.6c0.2-0.4,0.3-0.9,0.4-1.4
+                            c0-0.2,0-0.5,0-0.7C28.6,23.7,28.5,23.6,28.3,23.5z"/>
+                        </svg>
+                    </div>
+
+                    <ul class="menu menu--drawer">
+                                                    <li class="menu__item">
+                                <a href="https://www.whatsapp.com/download/" class="menu__link">
+                                    Download                                </a>
+                            </li>
+                                                    <li class="menu__item">
+                                <a href="https://www.whatsapp.com/features/" class="menu__link">
+                                    Features                                </a>
+                            </li>
+                                                    <li class="menu__item">
+                                <a href="https://www.whatsapp.com/security/" class="menu__link">
+                                    Security                                </a>
+                            </li>
+                                                    <li class="menu__item">
+                                <a href="https://www.whatsapp.com/faq/" class="menu__link">
+                                    FAQ                                </a>
+                            </li>
+                                                    <li class="menu__item">
+                                <a href="https://www.whatsapp.com/contact/" class="menu__link">
+                                    Get in touch                                </a>
+                            </li>
+                                                <li class="menu__item menu__item--language">
+                                                        <select onchange="window.location = this.options[this.selectedIndex].value;"><option  value="/legal?doc=terms-of-service&version=20160825&l=az">Azərbaycanca</option><option  value="/legal?doc=terms-of-service&version=20160825&l=id">Bahasa Indonesia</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ms">Bahasa Melayu</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ca">Català</option><option  value="/legal?doc=terms-of-service&version=20160825&l=cs">Česky</option><option  value="/legal?doc=terms-of-service&version=20160825&l=da">Dansk</option><option  value="/legal?doc=terms-of-service&version=20160825&l=de">Deutsch</option><option  value="/legal?doc=terms-of-service&version=20160825&l=et">eesti</option><option selected="selected" value="/legal?doc=terms-of-service&version=20160825&l=en">English</option><option  value="/legal?doc=terms-of-service&version=20160825&l=es">Español</option><option  value="/legal?doc=terms-of-service&version=20160825&l=fr">Français</option><option  value="/legal?doc=terms-of-service&version=20160825&l=hr">Hrvatski</option><option  value="/legal?doc=terms-of-service&version=20160825&l=it">Italiano</option><option  value="/legal?doc=terms-of-service&version=20160825&l=sw">Kiswahili</option><option  value="/legal?doc=terms-of-service&version=20160825&l=lv">Latviešu</option><option  value="/legal?doc=terms-of-service&version=20160825&l=lt">Lietuviškai</option><option  value="/legal?doc=terms-of-service&version=20160825&l=hu">Magyar</option><option  value="/legal?doc=terms-of-service&version=20160825&l=nl">Nederlands</option><option  value="/legal?doc=terms-of-service&version=20160825&l=nb">Norsk</option><option  value="/legal?doc=terms-of-service&version=20160825&l=uz">Oʻzbekcha</option><option  value="/legal?doc=terms-of-service&version=20160825&l=fil">Pilipino</option><option  value="/legal?doc=terms-of-service&version=20160825&l=pl">Polski</option><option  value="/legal?doc=terms-of-service&version=20160825&l=pt_br">Português (BR)</option><option  value="/legal?doc=terms-of-service&version=20160825&l=pt_pt">Português (PT)</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ro">Română</option><option  value="/legal?doc=terms-of-service&version=20160825&l=sk">Slovenčina</option><option  value="/legal?doc=terms-of-service&version=20160825&l=sl">Slovenščina</option><option  value="/legal?doc=terms-of-service&version=20160825&l=fi">suomi</option><option  value="/legal?doc=terms-of-service&version=20160825&l=sv">svensk</option><option  value="/legal?doc=terms-of-service&version=20160825&l=vi">Tiếng Việt</option><option  value="/legal?doc=terms-of-service&version=20160825&l=tr">Türkçe</option><option  value="/legal?doc=terms-of-service&version=20160825&l=el">Ελληνικά</option><option  value="/legal?doc=terms-of-service&version=20160825&l=bg">Български</option><option  value="/legal?doc=terms-of-service&version=20160825&l=kk">Қазақ</option><option  value="/legal?doc=terms-of-service&version=20160825&l=mk">Македонски</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ru">Pусский</option><option  value="/legal?doc=terms-of-service&version=20160825&l=sr">српски</option><option  value="/legal?doc=terms-of-service&version=20160825&l=uk">Українська</option><option  value="/legal?doc=terms-of-service&version=20160825&l=he">‏עברית‏</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ar">العربية</option><option  value="/legal?doc=terms-of-service&version=20160825&l=fa">فارسی</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ur">اردو</option><option  value="/legal?doc=terms-of-service&version=20160825&l=bn">বাংলা </option><option  value="/legal?doc=terms-of-service&version=20160825&l=hi">हिंदी</option><option  value="/legal?doc=terms-of-service&version=20160825&l=gu">ગુજરાતી</option><option  value="/legal?doc=terms-of-service&version=20160825&l=kn">ಕನ್ನಡ</option><option  value="/legal?doc=terms-of-service&version=20160825&l=mr">मराठी</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ta">தமிழ்</option><option  value="/legal?doc=terms-of-service&version=20160825&l=th">ภาษาไทย</option><option  value="/legal?doc=terms-of-service&version=20160825&l=zh_cn">简体中文</option><option  value="/legal?doc=terms-of-service&version=20160825&l=zh_tw">繁體中文</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ja">日本語</option><option  value="/legal?doc=terms-of-service&version=20160825&l=ko">한국어</option></select>                        </li>
+                    </ul>
+                </div>
+
+            </nav>
+
+        </header>
+    </div>
+
+<div class="page-main">
+    <div class="page-main__inner">
+        <div class="page-content">
+    <div class="toolbar">
+        <div class="breadcrumbs">
+            <span class="breadcrumbs__item ">
+                            <a href="/legal/" class="breadcrumbs__link">Legal</a>
+                    </span>
+            <span class="breadcrumbs__item ">
+                            <a href="/legal/?doc=terms-of-service&amp;mode=revisions" class="breadcrumbs__link">Terms of Service</a>
+                    </span>
+    </div>
+    </div>
+</div>
+
+<div class="page-content page-content--padded">
+
+    <h1 class="page-title visible">WhatsApp Terms Of Service</h1>
+
+    <div class="block block--text">
+        <div class="block__body">
+
+                        <h4 class="muted">Last modified: August 25, 2016 (<a href="/legal/?doc=terms-of-service&amp;mode=revisions">archived versions</a>)</h4>
+            
+            <br>
+
+            <p>WhatsApp Inc. (“WhatsApp,” “our,” “we,” or “us”) provides messaging, Internet calling, and other services to users around the world. Please read our Terms of Service so you understand what’s up with your use of WhatsApp. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).</p>
+<p><strong>NO ACCESS TO EMERGENCY SERVICES: There are important differences between WhatsApp and your mobile and fixed-line telephone and SMS services. Our Services do not provide access to emergency services or emergency services providers, including the police, fire departments, or hospitals, or otherwise connect to public safety answering points. You should ensure you can contact your relevant emergency services providers through a mobile, fixed-line telephone, or other service.</strong></p>
+<p><strong>IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, OUR TERMS CONTAIN A BINDING ARBITRATION PROVISION, WHICH STATES THAT, EXCEPT IF YOU OPT OUT AND EXCEPT FOR CERTAIN TYPES OF DISPUTES, WHATSAPP AND YOU AGREE TO RESOLVE ALL DISPUTES THROUGH BINDING INDIVIDUAL ARBITRATION, WHICH MEANS THAT YOU WAIVE ANY RIGHT TO HAVE THOSE DISPUTES DECIDED BY A JUDGE OR JURY, AND THAT YOU WAIVE YOUR RIGHT TO PARTICIPATE IN CLASS ACTIONS, CLASS ARBITRATIONS, OR REPRESENTATIVE ACTIONS. PLEASE READ THE “SPECIAL ARBITRATION PROVISION FOR UNITED STATES OR CANADA USERS” SECTION BELOW TO LEARN MORE.</strong></p>
+<h3>About our services</h3>
+<p><strong>Registration.</strong> You must register for our Services using accurate data, provide your current mobile phone number, and, if you change it, update this mobile phone number using our in-app change number feature. You agree to receive text messages and phone calls (from us or our third-party providers) with codes to register for our Services. </p>
+<p><strong>Address Book.</strong> You provide us the phone numbers of WhatsApp users and your other contacts in your mobile phone address book on a regular basis. You confirm you are authorized to provide us such numbers to allow us to provide our Services. </p>
+<p><strong>Age.</strong> You must be at least 13 years old to use our Services (or such greater age required in your country for you to be authorized to use our Services without parental approval). In addition to being of the minimum required age to use our Services under applicable law, if you are not old enough to have authority to agree to our Terms in your country, your parent or guardian must agree to our Terms on your behalf. </p>
+<p><strong>Devices and Software.</strong> You must provide certain devices, software, and data connections to use our Services, which we otherwise do not supply. For as long as you use our Services, you consent to downloading and installing updates to our Services, including automatically. </p>
+<p><strong>Fees and Taxes.</strong> You are responsible for all carrier data plan and other fees and taxes associated with your use of our Services. We may charge you for our Services, including applicable taxes. We may refuse or cancel orders. We do not provide refunds for our Services, except as required by law.</p>
+<h3>Privacy policy and user data</h3>
+<p>WhatsApp cares about your privacy. WhatsApp’s <a href="/legal/#privacy-policy">Privacy Policy</a> describes our information (including message) practices, including the types of information we receive and collect from you and how we use and share this information. You agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.</p>
+<h3>Acceptable use of our services</h3>
+<p><strong>Our Terms and Policies.</strong> You must use our Services according to our Terms and posted policies. If we disable your account for a violation of our Terms, you will not create another account without our permission.</p>
+<p><strong>Legal and Acceptable Use.</strong> You must access and use our Services only for legal, authorized, and acceptable purposes. You will not use (or assist others in using) our Services in ways that: (a) violate, misappropriate, or infringe the rights of WhatsApp, our users, or others, including privacy, publicity, intellectual property, or other proprietary rights; (b) are illegal, obscene, defamatory, threatening, intimidating, harassing, hateful, racially, or ethnically offensive, or instigate or encourage conduct that would be illegal, or otherwise inappropriate, including promoting violent crimes; (c) involve publishing falsehoods, misrepresentations, or misleading statements; (d) impersonate someone; (e) involve sending illegal or impermissible communications such as bulk messaging, auto-messaging, auto-dialing, and the like; or (f) involve any non-personal use of our Services unless otherwise authorized by us.</p>
+<p><strong>Harm to WhatsApp or Our Users.</strong> You must not (or assist others to) access, use, copy, adapt, modify, prepare derivative works based upon, distribute, license, sublicense, transfer, display, perform, or otherwise exploit our Services in impermissible or unauthorized manners, or in ways that burden, impair, or harm us, our Services, systems, our users, or others, including that you must not directly or through automated means: (a) reverse engineer, alter, modify, create derivative works from, decompile, or extract code from our Services; (b) send, store, or transmit viruses or other harmful computer code through or onto our Services; (c) gain or attempt to gain unauthorized access to our Services or systems; (d) interfere with or disrupt the integrity or performance of our Services; (e) create accounts for our Services through unauthorized or automated means; (f) collect the information of or about our users in any impermissible or unauthorized manner; (g) sell, resell, rent, or charge for our Services; or (h) distribute or make our Services available over a network where they could be used by multiple devices at the same time.</p>
+<p><strong>Keeping Your Account Secure.</strong> You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.</p>
+<h3>Third-party services</h3>
+<p>Our Services may allow you to access, use, or interact with third-party websites, apps, content, and other products and services. For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services or interact with a share button on a third party’s website that enables you to send information to your WhatsApp contacts. Please note that when you use third-party services, their own terms and privacy policies will govern your use of those services.</p>
+<h3>Licenses</h3>
+<p><strong>Your Rights.</strong> WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services. You must have the necessary rights to such information that you submit for your WhatsApp account or through our Services and the right to grant the rights and licenses in our Terms. </p>
+<p><strong>WhatsApp’s Rights.</strong> We own all copyrights, trademarks, domains, logos, trade dress, trade secrets, patents, and other intellectual property rights associated with our Services. You may not use our copyrights, trademarks, domains, logos, trade dress, patents, and other intellectual property rights unless you have our express permission and except in accordance with our <a href="https://www.whatsappbrand.com/">Brand Guidelines</a>. You may use the trademarks <a href="https://www.facebookbrand.com/trademarks">www.facebookbrand.com/trademarks</a> of our affiliated companies only with their permission, including as authorized in any published brand guidelines.</p>
+<p><strong>Your License to WhatsApp.</strong> In order to operate and provide our Services, you grant WhatsApp a worldwide, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, distribute, create derivative works of, display, and perform the information (including the content) that you upload, submit, store, send, or receive on or through our Services. The rights you grant in this license are for the limited purpose of operating and providing our Services (such as to allow us to display your profile picture and status message, transmit your messages, store your undelivered messages on our servers for up to 30 days as we try to deliver them, and otherwise as described in our Privacy Policy).</p>
+<p><strong>WhatsApp’s License to You.</strong> We grant you a limited, revocable, non-exclusive, non-sublicensable, and non-transferable license to use our Services, subject to and in accordance with our Terms. This license is for the sole purpose of enabling you to use our Services, in the manner permitted by our Terms. No licenses or rights are granted to you by implication or otherwise, except for the licenses and rights expressly granted to you.</p>
+<h3>Reporting third-party copyright, trademark, and other intellectual property infringement</h3>
+<p>To report claims of third-party copyright, trademark, or other intellectual property infringement, please visit our <a href="/legal/#ip-policy">Intellectual Property Policy</a>. We may terminate your WhatsApp account if you repeatedly infringe the intellectual property rights of others.</p>
+<h3>Disclaimers</h3>
+<p>YOU USE OUR SERVICES AT YOUR OWN RISK AND SUBJECT TO THE FOLLOWING DISCLAIMERS. WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND FREEDOM FROM COMPUTER VIRUS OR OTHER HARMFUL CODE. WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL, THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS. WE DO NOT CONTROL, AND ARE NOT RESPONSIBLE FOR, CONTROLLING HOW OR WHEN OUR USERS USE OUR SERVICES OR THE FEATURES, SERVICES, AND INTERFACES OUR SERVICES PROVIDE. WE ARE NOT RESPONSIBLE FOR AND ARE NOT OBLIGATED TO CONTROL THE ACTIONS OR INFORMATION (INCLUDING CONTENT) OF OUR USERS OR OTHER THIRD PARTIES. YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE “WHATSAPP PARTIES”) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, OR DISPUTE (TOGETHER, “CLAIM”) AND DAMAGES, KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD PARTIES. YOU WAIVE ANY RIGHTS YOU MAY HAVE UNDER CALIFORNIA CIVIL CODE §1542, OR ANY OTHER SIMILAR APPLICABLE STATUTE OR LAW OF ANY OTHER JURISDICTION, WHICH SAYS THAT: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.</p>
+<h3>Limitation of liability</h3>
+<p>THE WHATSAPP PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES, EVEN IF THE WHATSAPP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. THE FOREGOING DISCLAIMER OF CERTAIN DAMAGES AND LIMITATION OF LIABILITY WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THE LAWS OF SOME STATES OR JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN OUR TERMS, IN SUCH CASES, THE LIABILITY OF THE WHATSAPP PARTIES WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.</p>
+<h3>Indemnification</h3>
+<p>You agree to defend, indemnify, and hold harmless the WhatsApp Parties from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any of the following: (a) your access to or use of our Services, including information provided in connection therewith; (b) your breach or alleged breach of our Terms; or (c) any misrepresentation made by you. You will cooperate as fully as required by us in the defense or settlement of any Claim.</p>
+<h3>Dispute resolution</h3>
+<p><strong>Forum and Venue.</strong> If you are a WhatsApp user located in the United States or Canada, the “Special Arbitration Provision for United States or Canada Users” section below applies to you. Please also read that section carefully and completely. If you are not subject to the “Special Arbitration Provision for United States or Canada Users” section below, you agree that you will resolve any Claim you have with us relating to, arising out of, or in any way in connection with our Terms, us, or our Services (each, a “Dispute,” and together, “Disputes”) exclusively in the United States District Court for the Northern District of California or a state court located in San Mateo County in California, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such Disputes.</p>
+<p><strong>Governing Law.</strong> The laws of the State of California govern our Terms, as well as any Disputes, whether in court or arbitration, which might arise between WhatsApp and you, without regard to conflict of law provisions.</p>
+<h3>Availability and termination of our services</h3>
+<p><strong>Availability of Our Services.</strong> Our Services may be interrupted, including for maintenance, repairs, upgrades, or network or equipment failures. We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time. Events beyond our control may affect our Services, such as events in nature and other force majeure events.</p>
+<p><strong>Termination.</strong> We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for us, our users, or others. The following provisions will survive any termination of your relationship with WhatsApp: “Licenses,” “Disclaimers,” “Limitation of Liability,” “Indemnification,” “Dispute Resolution,” “Availability and Termination of our Services,” “Other,” and “Special Arbitration Provision for United States or Canada Users.”</p>
+<h3>Other</h3>
+<ul>
+<li><p>Unless a mutually executed agreement between you and us states otherwise, our Terms make up the entire agreement between you and us regarding WhatsApp and our Services, and supersede any prior agreements.</p></li>
+<li><p>We may ask you to agree to additional terms for certain of our Services in the future, which will govern to the extent there is a conflict between our Terms and such additional terms.</p></li>
+<li><p>Our Services are not intended for distribution to or use in any country where such distribution or use would violate local law or would subject us to any regulations in another country. We reserve the right to limit our Services in any country.</p></li>
+<li><p>You will comply with all applicable U.S. and non-U.S. export control and trade sanctions laws (“Export Laws”). You will not, directly or indirectly, export, re-export, provide, or otherwise transfer our Services: (a) to any individual, entity, or country prohibited by Export Laws; (b) to anyone on U.S. or non-U.S. government restricted parties lists; or (c) for any purpose prohibited by Export Laws, including nuclear, chemical, or biological weapons, or missile technology applications without the required government authorizations. You will not use or download our Services if you are located in a restricted country, if you are currently listed on any U.S. or non-U.S. restricted parties list, or for any purpose prohibited by Export Laws, and you will not disguise your location through IP proxying or other methods.</p></li>
+<li><p>Our Terms are written in English (U.S.). Any translated version is provided solely for your convenience. To the extent any translated version of our Terms conflicts with the English version, the English version controls.</p></li>
+<li><p>Any amendment to or waiver of our Terms requires our express consent.</p></li>
+<li><p>We may amend or update these Terms. We will provide you notice of amendments to our Terms, as appropriate, and update the “Last Modified” date at the top of our Terms. Your continued use of our Services confirms your acceptance of our Terms, as amended. If you do not agree to our Terms, as amended, you must stop using our Services. Please review our Terms from time to time.</p></li>
+<li><p>All of our rights and obligations under our Terms are freely assignable by us to any of our affiliates or in connection with a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise, and we may transfer your information to any of our affiliates, successor entities, or new owner.</p></li>
+<li><p>You will not transfer any of your rights or obligations under our Terms to anyone else without our prior written consent.</p></li>
+<li><p>Nothing in our Terms will prevent us from complying with the law.</p></li>
+<li><p>Except as contemplated herein, our Terms do not give any third-party beneficiary rights.</p></li>
+<li><p>If we fail to enforce any of our Terms, it will not be considered a waiver.</p></li>
+<li><p>If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions, except as set forth in the “Special Arbitration Provision for United States or Canada Users” — “Severability” section below.</p></li>
+<li><p>We reserve all rights not expressly granted by us to you. In certain jurisdictions, you may have legal rights as a consumer, and our Terms are not intended to limit such consumer legal rights that may not be waived by contract.</p></li>
+<li><p>We always appreciate your feedback or other suggestions about WhatsApp and our Services, but you understand that we may use your feedback or suggestions without any obligation to compensate you for them (just as you have no obligation to offer them).</p></li>
+</ul>
+<h3>Special arbitration provision for United States or Canada users</h3>
+<p><strong>PLEASE READ THIS SECTION CAREFULLY BECAUSE IT CONTAINS ADDITIONAL PROVISIONS APPLICABLE ONLY TO OUR UNITED STATES AND CANADA USERS. IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, IT REQUIRES YOU TO SUBMIT TO BINDING INDIVIDUAL ARBITRATION OF ALL DISPUTES, EXCEPT FOR THOSE THAT INVOLVE INTELLECTUAL PROPERTY DISPUTES AND EXCEPT THOSE THAT CAN BE BROUGHT IN SMALL CLAIMS COURT. THIS MEANS YOU ARE WAIVING YOUR RIGHT TO HAVE SUCH DISPUTES RESOLVED IN COURT BY A JUDGE OR JURY. THIS SECTION ALSO LIMITS THE TIME YOU HAVE TO START AN ARBITRATION OR, IF PERMISSIBLE, A COURT ACTION. FINALLY, THIS SECTION WAIVES YOUR RIGHT TO HAVE YOUR DISPUTE HEARD AND RESOLVED AS A CLASS ACTION, CLASS ARBITRATION, OR A REPRESENTATIVE ACTION.</strong></p>
+<p>“Excluded Dispute” means any Dispute relating to the enforcement or infringement of your or our intellectual property rights (such as copyrights, trademarks, domains, logos, trade dress, trade secrets, and patents). For clarity and notwithstanding the foregoing, those Disputes relating to, arising out of, or in any way in connection with your rights of privacy and publicity are not Excluded Disputes.</p>
+<p><strong>Federal Arbitration Act.</strong> The United States Federal Arbitration Act governs the interpretation and enforcement of this “Special Arbitration Provision for United States or Canada Users” section, including any question whether a Dispute between WhatsApp and you is subject to arbitration.</p>
+<p><strong>Agreement to Arbitrate for WhatsApp Users Located in the United States or Canada.</strong> For WhatsApp users located in the United States or Canada, WhatsApp and you each agree to waive the right to a trial by judge or jury for all Disputes, except for the Excluded Disputes. WhatsApp and you agree that all Disputes (except for the Excluded Disputes), including those relating to, arising out of, or in any way in connection with your rights of privacy and publicity, will be resolved through final and binding arbitration. WhatsApp and you agree not to combine a Dispute that is subject to arbitration under our Terms with a Dispute that is not eligible for arbitration under our Terms.</p>
+<p>The arbitration will be administered by the American Arbitration Association (AAA) under its Commercial Arbitration Rules in effect at the time the arbitration is started, including the Optional Rules for Emergency Measures of Protection and the Supplementary Procedures for Consumer-Related Disputes (together, the “AAA Rules”). The arbitration will be presided over by a single arbitrator selected in accordance with the AAA Rules. The AAA Rules, information regarding initiating a Dispute, and a description of the arbitration process are available at <a href="http://www.adr.org">www.adr.org</a>. The arbitrator will decide whether a Dispute can be arbitrated. The location of the arbitration and the allocation of fees and costs for such arbitration shall be determined in accordance with the AAA Rules. Notwithstanding the AAA Rules, we will reimburse you for all the AAA administrative fees in Disputes that are subject to the Supplementary Procedures for Consumer-Related Disputes, unless the arbitrator determines that a Dispute was filed for purposes of harassment or is patently frivolous.</p>
+<p><strong>Opt-Out Procedure.</strong> You may opt out of this agreement to arbitrate. If you do so, neither we nor you can require the other to participate in an arbitration proceeding. To opt out, you must notify us in writing postmarked within 30 days of the later of: (i) the date that you first accepted our Terms; and (ii) the date you became subject to this arbitration provision. You must use this address to opt-out:</p>
+<p>WhatsApp Inc. <br/>
+Arbitration Opt-Out <br/>
+1601 Willow Road <br/>
+Menlo Park, California 94025 <br/>
+United States of America</p>
+<p>You must include: (1) your name and residence address; (2) the mobile phone number associated with your account; and (3) a clear statement that you want to opt out of our Terms’ agreement to arbitrate.</p>
+<p><strong>Small Claims Court.</strong> As an alternative to arbitration, if permitted by your local “small claims” court’s rules, you may bring your Dispute in your local “small claims” court, as long as the matter advances on an individual (non-class) basis.</p>
+<p><strong>Time Limit to Start Arbitration.</strong> We and you agree that for any Dispute (except for the Excluded Disputes) we and you must commence an arbitration proceeding within one year after the Dispute first arose; otherwise, such Dispute is permanently barred. This means that if we or you do not commence an arbitration within one year after the Dispute first arose, then the arbitration will be dismissed because it was started too late.</p>
+<p><strong>No Class Actions, Class Arbitrations, or Representative Actions for Users Located in the United States or Canada.</strong> We and you each agree that if you are a WhatsApp user located in the United States or Canada, each of we and you may bring Disputes against the other only on its or your own behalf, and not on behalf of any other person or entity, or any class of people. We and you each agree not to participate in a class action, a class-wide arbitration, Disputes brought in a private attorney general or representative capacity, or consolidated Disputes involving any other person or entity in connection with any Dispute.</p>
+<p><strong>Severability.</strong> If the prohibition against class actions and other Disputes brought on behalf of third parties is found to be unenforceable for a Dispute, then all of the provisions above under the caption “Special Arbitration Provision for United States or Canada Users” will be null and void as to that Dispute.</p>
+<p><strong>Place to File Permitted Court Actions.</strong> If you opt out of the agreement to arbitrate, if your Dispute is an Excluded Dispute, or if the arbitration agreement is found to be unenforceable, you agree to be subject to the “Forum and Venue” provisions in the “Dispute Resolution” section set forth above.</p>
+<h4>Accessing WhatsApp's terms in different languages</h4>
+<p>To access our Terms in certain other languages, change the language setting for your WhatsApp session. If our Terms are not available in the language you select, we will default to the English version.</p>
+<p>Please review the following documents, which provide additional information about your use of our Services:</p>
+<p><a href="/legal/#privacy-policy">WhatsApp Privacy Policy</a></p>
+<p><a href="/legal/#ip-policy">WhatsApp Intellectual Property Policy</a></p>
+<p><a href="https://www.whatsappbrand.com/">WhatsApp Brand Guidelines</a></p>
+
+        </div>
+    </div>
+</div>    </div>
+</div>
+
+<footer class="page-footer -primary">
+    <div class="page-footer__inner">
+
+        <div class="four -spaced">
+                            <div class="block block--footer four__item">
+                    <h4 class="block__title">WhatsApp</h4>
+                    <div class="block__body">
+                        <ul class="list list--footer">
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/features/" class="list__link">
+                                            Features                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/security/" class="list__link">
+                                            Security                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/download/" class="list__link">
+                                            Download                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://web.whatsapp.com/" class="list__link">
+                                            WhatsApp Web                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="block block--footer four__item">
+                    <h4 class="block__title">Company</h4>
+                    <div class="block__body">
+                        <ul class="list list--footer">
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/about/" class="list__link">
+                                            About                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/join/" class="list__link">
+                                            Careers                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsappbrand.com/" class="list__link">
+                                            Brand Center                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/contact/" class="list__link">
+                                            Get in touch                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://blog.whatsapp.com" class="list__link">
+                                            Blog                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="block block--footer four__item">
+                    <h4 class="block__title">Download</h4>
+                    <div class="block__body">
+                        <ul class="list list--footer">
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/download/" class="list__link">
+                                            Mac/PC                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/android/" class="list__link">
+                                            Android                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/appstore/" class="list__link">
+                                            iPhone                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/wp/" class="list__link">
+                                            Windows Phone                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/ota/" class="list__link">
+                                            BlackBerry                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/nokia/" class="list__link">
+                                            Nokia                                        </a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+                            <div class="block block--footer four__item">
+                    <h4 class="block__title">Help</h4>
+                    <div class="block__body">
+                        <ul class="list list--footer">
+                                                            <li class="list__item">
+                                                                            <a href="https://www.whatsapp.com/faq/" class="list__link">
+                                            FAQ                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://twitter.com/whatsapp" class="list__link">
+                                            Twitter                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <a href="https://www.facebook.com/WhatsApp" class="list__link">
+                                            Facebook                                        </a>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                            <li class="list__item">
+                                                                            <span class="list__empty"></span>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                </div>
+                    </div>
+    </div>
+</footer>
+<footer class="page-footer -secondary">
+    <div class="page-footer__inner">
+        <div class="four">
+            <div class="four__item">
+                2016 &copy; WhatsApp Inc.
+            </div>
+            <div class="four__item -span3">
+                <a href="/legal/" class="page-footer__link">Privacy & Terms</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    var open = false;
+    var speed = 200;
+    function toggle_lng_menu() {
+        if(open) {
+            $('#lng_open').slideUp(speed);
+            $('.header').removeClass('is-expanded');
+        } else {
+            $('#lng_open').slideDown(speed);
+            $('.header').addClass('is-expanded');
+        }
+        open = !open;
+    }
+
+    function toggle_menu() {
+        $('.page-header__drawer').toggleClass('is-visible');
+    }
+
+    function toggle_search() {
+        $('.page-subheader--search').slideToggle();
+    }
+
+    $(function() {
+                    $(window).scroll(function(e) {
+                  if ($('body').scrollTop() > 0) {
+                $('.header').addClass("fixed");
+              } else {
+                $('.header').removeClass("fixed");
+              }
+
+            });
+            })
+</script>
+
+
+</body>
+</html>
